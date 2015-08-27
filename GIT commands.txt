@@ -18,3 +18,5 @@ git push
 After push, go to gitlab and sned merge request to <lead> and add summary below.
 Change issue status in RedMine and add some comment/summary there too.
 
+git remote add origin https://github.com/<user name>/<repo name>.git
+git push -u origin master
